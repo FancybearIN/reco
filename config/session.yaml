@@ -1,0 +1,27 @@
+# reco session/auth handling configuration
+
+modes:
+  - unauthenticated
+  - cookie
+  - bearer
+  - header
+
+active_mode: "bearer"
+
+auth_data:
+  cookie:
+    session_id: "REDACTED"
+  bearer:
+    token: "REDACTED_TOKEN"
+  header:
+    name: "X-Api-Key"
+    value: "REDACTED_KEY"
+
+# Multi-account setup for IDOR/BOLA
+accounts:
+  account_a:
+    token: "REDACTED_TOKEN_A"
+    id: "1001"
+  account_b:
+    token: "REDACTED_TOKEN_B"
+    id: "1002"

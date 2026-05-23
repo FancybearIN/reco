@@ -1,0 +1,8 @@
+Apache
+Docker
+GitLab
+Kubernetes
+OpenSSH
+Redis
+Tomcat
+nginx

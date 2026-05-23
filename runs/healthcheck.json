@@ -1,0 +1,111 @@
+{
+  "tools": {
+    "subfinder": {
+      "installed": true,
+      "path": "/usr/local/bin/subfinder"
+    },
+    "assetfinder": {
+      "installed": true,
+      "path": "/usr/bin/assetfinder"
+    },
+    "amass": {
+      "installed": false,
+      "path": "NOT FOUND"
+    },
+    "httpx": {
+      "installed": true,
+      "path": "/usr/local/bin/httpx"
+    },
+    "dnsx": {
+      "installed": true,
+      "path": "/usr/local/bin/dnsx"
+    },
+    "naabu": {
+      "installed": false,
+      "path": "NOT FOUND"
+    },
+    "nmap": {
+      "installed": true,
+      "path": "/usr/bin/nmap"
+    },
+    "nuclei": {
+      "installed": true,
+      "path": "/usr/local/bin/nuclei"
+    },
+    "katana": {
+      "installed": true,
+      "path": "/usr/local/bin/katana"
+    },
+    "gau": {
+      "installed": true,
+      "path": "/usr/local/bin/gau"
+    },
+    "waybackurls": {
+      "installed": true,
+      "path": "/usr/local/bin/waybackurls"
+    },
+    "gf": {
+      "installed": true,
+      "path": "/usr/local/bin/gf"
+    },
+    "subzy": {
+      "installed": false,
+      "path": "NOT FOUND"
+    }
+  },
+  "env_vars": {
+    "CHAOS_API_KEY": {
+      "set": true,
+      "length": 36
+    },
+    "H1_API_TOKEN": {
+      "set": true,
+      "length": 44
+    },
+    "SHODAN_API_KEY": {
+      "set": true,
+      "length": 32
+    },
+    "FOFA_EMAIL": {
+      "set": true,
+      "length": 21
+    },
+    "FOFA_API_KEY": {
+      "set": true,
+      "length": 32
+    },
+    "OTX_API_KEY": {
+      "set": true,
+      "length": 64
+    },
+    "VIRUSTOTAL_API_KEY": {
+      "set": true,
+      "length": 64
+    },
+    "CENSYS_API_ID": {
+      "set": true,
+      "length": 8
+    },
+    "CENSYS_API_SECRET": {
+      "set": true,
+      "length": 40
+    },
+    "SERPER_API_KEY": {
+      "set": true,
+      "length": 40
+    },
+    "GOOGLE_CSE_API_KEY": {
+      "set": false,
+      "length": 0
+    },
+    "GOOGLE_CSE_ID": {
+      "set": false,
+      "length": 0
+    },
+    "SECURITYTRAILS_API_KEY": {
+      "set": true,
+      "length": 32
+    }
+  },
+  "timestamp": "2026-05-24T00:45:25.891801"
+}

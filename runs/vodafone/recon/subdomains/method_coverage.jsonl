@@ -1,0 +1,10 @@
+{"method":"subfinder","status":"ran","output":"runs/vodafone/recon/subdomains/all_raw.txt","note":"ok"}
+{"method":"assetfinder","status":"ran","output":"runs/vodafone/recon/subdomains/all_raw.txt","note":"ok"}
+{"method":"subfinder","status":"ran","output":"runs/vodafone/recon/subdomains/all_raw.txt","note":"ok"}
+{"method":"assetfinder","status":"ran","output":"runs/vodafone/recon/subdomains/all_raw.txt","note":"ok"}
+{"method":"amass","status":"ran","output":"runs/vodafone/recon/subdomains/all_raw.txt","note":"ok"}
+{"method":"findomain","status":"missing","output":"","note":"tool not installed"}
+{"method":"chaos","status":"missing","output":"","note":"tool not installed"}
+{"method":"crt.sh","status":"ran","output":"runs/vodafone/recon/subdomains/all_raw.txt","note":"certificate transparency"}
+{"method":"alienvault","status":"ran","output":"runs/vodafone/recon/subdomains/all_raw.txt","note":"passive dns"}
+{"method":"rapiddns","status":"ran","output":"runs/vodafone/recon/subdomains/all_raw.txt","note":"html scrape"}

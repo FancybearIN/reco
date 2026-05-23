@@ -1,0 +1,12 @@
+# reco wordlists configuration
+
+paths:
+  web_content: "/home/kali/github/SecLists/Discovery/Web-Content/"
+  api_content: "/home/kali/github/SecLists/Discovery/Web-Content/api/"
+  fuzzing: "/home/kali/github/SecLists/Fuzzing/"
+  default_creds: "/home/kali/github/SecLists/Passwords/Default-Credentials/"
+  payloads: "/home/kali/github/PayloadsAllTheThings/"
+
+custom:
+  quick_fuzz: "/home/kali/github/SecLists/Discovery/Web-Content/quickhits.txt"
+  api_fuzz: "/home/kali/github/SecLists/Discovery/Web-Content/api/api-endpoints.txt"

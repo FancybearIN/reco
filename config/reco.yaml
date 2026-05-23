@@ -1,0 +1,42 @@
+# Reco Hardening Configuration
+
+# Scan Profiles
+profiles:
+  safe:
+    httpx_threads: 20
+    katana_concurrency: 5
+    gau_threads: 5
+    nuclei_rate_limit: 50
+    naabu_rate: 500
+    request_timeout: 10
+    max_retries: 2
+    max_runtime_per_stage: 3600
+    url_collection_timeout: 600
+  balanced:
+    httpx_threads: 50
+    katana_concurrency: 10
+    gau_threads: 10
+    nuclei_rate_limit: 150
+    naabu_rate: 1000
+    request_timeout: 10
+    max_retries: 3
+    max_runtime_per_stage: 7200
+    url_collection_timeout: 1200
+  aggressive:
+    httpx_threads: 100
+    katana_concurrency: 20
+    gau_threads: 20
+    nuclei_rate_limit: 500
+    naabu_rate: 5000
+    request_timeout: 5
+    max_retries: 5
+    max_runtime_per_stage: 14400
+    url_collection_timeout: 1800
+
+# Legacy fallback (used if profile not found)
+httpx_threads: 50
+katana_concurrency: 10
+nuclei_rate_limit: 150
+naabu_rate: 1000
+request_timeout: 10
+max_retries: 3

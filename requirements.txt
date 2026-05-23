@@ -1,0 +1,12 @@
+fastapi>=0.104.0
+uvicorn>=0.23.2
+celery>=5.3.4
+redis>=5.0.1
+neo4j>=5.14.0
+playwright>=1.39.0
+pydantic>=2.4.2
+pydantic-settings>=2.0.3
+loguru>=0.7.2
+structlog>=23.2.0
+requests>=2.31.0
+PyYAML>=6.0.1

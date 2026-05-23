@@ -1,0 +1,140 @@
+12.130.33.130	8443	expressway.uccentral.att.com;join.uccentral.att.com;uccentral.att.com;att-int-34-expe1.attjbr01.com;vcccluster.attjbr01.com;attjbr01.com	AT&T Enterprises, LLC	AS7018				Bad Request	
+195.75.95.26	8443	defrahvdue607.intl.att.com;defrahvdue605.intl.att.com;defrahvdue606.intl.att.com;hvd-intl08.att.com	Network of AT&T ITO	AS2686					
+195.75.95.25	8443	defrahvdacc11.intl.att.com;defrahvdacc10.intl.att.com;hvd-intl01.att.com	Network of AT&T ITO	AS2686					
+32.60.74.57	8443	catorhvdue207.intl.att.com;hvd-intl03.att.com;catorhvdue206.intl.att.com;catorhvdue205.intl.att.com	AT&T ITO	AS2685					
+32.60.74.194	8443	catorhvdacc10.intl.att.com;hvd-intl07.att.com;catorhvdacc11.intl.att.com	AT&T ITO	AS2685					
+63.241.204.14	8443	vcccluster.attjbr01.com;join.uccentral.att.com;att-int-34-expe2.attjbr01.com;uccentral.att.com;attjbr01.com;expressway2.uccentral.att.com	AT&T Enterprises, LLC	AS7018				Bad Request	
+32.59.51.151	8443	hvd-intl02.att.com;mxpblhvdUE605.intl.att.com;mxpblhvdUE607.intl.att.com;mxpblhvdUE606.intl.att.com	AT&T Enterprises, LLC	AS2688					
+32.59.51.152	8443	mxpblhvdue806.intl.att.com;mxpblhvdue805.intl.att.com;hvd-intl04.att.com;mxpblhvdue807.intl.att.com	AT&T Enterprises, LLC	AS2688					
+32.60.74.195	8443	catorhvdacc10.intl.att.com;hvd-intl07.att.com;catorhvdacc11.intl.att.com	AT&T ITO	AS2685					
+195.75.95.19	8443	defrahvdue807.intl.att.com;hvd-intl14.att.com;defrahvdue805.intl.att.com;defrahvdue806.intl.att.com	Network of AT&T ITO	AS2686					
+32.60.74.56	8443	catorhvdue806.intl.att.com;catorhvdue805.intl.att.com;hvd-intl06.att.com;catorhvd808.intl.att.com;catorhvdue807.intl.att.com	AT&T ITO	AS2685					
+32.60.74.204	8443	catorhvdue806.intl.att.com;catorhvdue805.intl.att.com;hvd-intl06.att.com;catorhvd808.intl.att.com;catorhvdue807.intl.att.com	AT&T ITO	AS2685					
+32.60.74.196	8443	catorhvdue207.intl.att.com;hvd-intl03.att.com;catorhvdue206.intl.att.com;catorhvdue205.intl.att.com	AT&T ITO	AS2685					
+32.60.74.59	8443	catorhvd608.intl.att.com;catorhvd607.intl.att.com;hvd-intl10.att.com;catorhvd606.intl.att.com;catorhvd605.intl.att.com	AT&T ITO	AS2685					
+12.203.52.21	8443	mail900.hvs.att.com;ums102.hvs.att.com;log1.hvs.att.com;ums201.hvs.att.com;xsp3.hvs.att.com;pub.hvs.att.com;ums2.hvs.att.com;tel1.hvs.att.com;pub9-um.hvs.att.com;mail901.hvs.att.com;mail902.hvs.att.com;mail202.hvs.att.com;pub-um.hvs.att.com;hosp.hvs.att.com;pub2-cfg.hvs.att.com;xsp4.hvs.att.com;ums901.hvs.att.com;pub2-ums.hvs.att.com;hosp-uss.hvs.att.com;xsp2.hvs.att.com;hosp-xs.hvs.att.com;uss102.hvs.att.com;xsp101.hvs.att.com;pubxsp2.hvs.att.com;ems201.hvs.att.com;pub-um2.hvs.att.com;xsp904.hvs.att.com;ems101.hvs.att.com;pub-tel.hvs.att.com;ums101.hvs.att.com;mail201.hvs.att.com;pub-xs.hvs.att.com;ums1.hvs.att.com;ums902.hvs.att.com;xsp1.hvs.att.com;ems901.hvs.att.com;xsp903.hvs.att.com;xsp203.hvs.att.com;uss201.hvs.att.com;xsp201.hvs.att.com;pub9-xs.hvs.att.com;xsp104.hvs.att.com;pub9.hvs.att.com;pub2.hvs.att.com;pub-um1.hvs.att.com;pub-um101.hvs.att.com;tel2.hvs.att.com;pub2-uss.hvs.att.com;pub2-um.hvs.att.com;mail200.hvs.att.com;uss101.hvs.att.com;xsp103.hvs.att.com;pub9-ums.hvs.att.com;xsp202.hvs.att.com;ems202.hvs.att.com;log2.hvs.att.com;uss1.hvs.att.com;pub-cfg.hvs.att.com;pubxsp1.hvs.att.com;ems1.hvs.att.com;ems1pub-cfg.hvs.att.com;hosp-ums.hvs.att.com;xsp902.hvs.att.com;ems102.hvs.att.com;ums202.hvs.att.com;pub2-xs.hvs.att.com;xsp901.hvs.att.com;xsp204.hvs.att.com;uss901.hvs.att.com;ems902.hvs.att.com;uss902.hvs.att.com;hosp-um.hvs.att.com;ems2pub-cfg.hvs.att.com;hosp-cfg.hvs.att.com;pub-uss.hvs.att.com;pub-ums.hvs.att.com;xsp102.hvs.att.com;ems2.hvs.att.com;uss2.hvs.att.com;uss202.hvs.att.com;pub-um102.hvs.att.com;pub9-cfg.hvs.att.com;pub9-uss.hvs.att.com	TCORP-FA-PRODUCT TO PRODUCT	AS7018				404 Not Found	
+32.60.74.58	8443	catorhvdacc10.intl.att.com;hvd-intl07.att.com;catorhvdacc11.intl.att.com	AT&T ITO	AS2685					
+32.60.74.198	8443	catorhvdue207.intl.att.com;hvd-intl03.att.com;catorhvdue206.intl.att.com;catorhvdue205.intl.att.com	AT&T ITO	AS2685					
+122.248.166.58	8443	jptokhvdue607.intl.att.com;jptokhvdue605.intl.att.com;hvd-intl11.att.com;jptokhvdue606.intl.att.com	Network of AT&T ITO	AS2687					
+32.60.74.203	8443	catorhvdue806.intl.att.com;catorhvdue805.intl.att.com;hvd-intl06.att.com;catorhvd808.intl.att.com;catorhvdue807.intl.att.com	AT&T ITO	AS2685					
+32.60.74.202	8443	catorhvdue806.intl.att.com;catorhvdue805.intl.att.com;hvd-intl06.att.com;catorhvd808.intl.att.com;catorhvdue807.intl.att.com	AT&T ITO	AS2685					
+12.226.222.22	8443	mail900.hvs.att.com;ums102.hvs.att.com;log1.hvs.att.com;ums201.hvs.att.com;xsp3.hvs.att.com;pub.hvs.att.com;ums2.hvs.att.com;tel1.hvs.att.com;pub9-um.hvs.att.com;mail901.hvs.att.com;mail902.hvs.att.com;mail202.hvs.att.com;pub-um.hvs.att.com;hosp.hvs.att.com;pub2-cfg.hvs.att.com;xsp4.hvs.att.com;ums901.hvs.att.com;pub2-ums.hvs.att.com;hosp-uss.hvs.att.com;xsp2.hvs.att.com;hosp-xs.hvs.att.com;uss102.hvs.att.com;xsp101.hvs.att.com;pubxsp2.hvs.att.com;ems201.hvs.att.com;pub-um2.hvs.att.com;xsp904.hvs.att.com;ems101.hvs.att.com;pub-tel.hvs.att.com;ums101.hvs.att.com;mail201.hvs.att.com;pub-xs.hvs.att.com;ums1.hvs.att.com;ums902.hvs.att.com;xsp1.hvs.att.com;ems901.hvs.att.com;xsp903.hvs.att.com;xsp203.hvs.att.com;uss201.hvs.att.com;xsp201.hvs.att.com;pub9-xs.hvs.att.com;xsp104.hvs.att.com;pub9.hvs.att.com;pub2.hvs.att.com;pub-um1.hvs.att.com;pub-um101.hvs.att.com;tel2.hvs.att.com;pub2-uss.hvs.att.com;pub2-um.hvs.att.com;mail200.hvs.att.com;uss101.hvs.att.com;xsp103.hvs.att.com;pub9-ums.hvs.att.com;xsp202.hvs.att.com;ems202.hvs.att.com;log2.hvs.att.com;uss1.hvs.att.com;pub-cfg.hvs.att.com;pubxsp1.hvs.att.com;ems1.hvs.att.com;ems1pub-cfg.hvs.att.com;hosp-ums.hvs.att.com;xsp902.hvs.att.com;ems102.hvs.att.com;ums202.hvs.att.com;pub2-xs.hvs.att.com;xsp901.hvs.att.com;xsp204.hvs.att.com;uss901.hvs.att.com;ems902.hvs.att.com;uss902.hvs.att.com;hosp-um.hvs.att.com;ems2pub-cfg.hvs.att.com;hosp-cfg.hvs.att.com;pub-uss.hvs.att.com;pub-ums.hvs.att.com;xsp102.hvs.att.com;ems2.hvs.att.com;uss2.hvs.att.com;uss202.hvs.att.com;pub-um102.hvs.att.com;pub9-cfg.hvs.att.com;pub9-uss.hvs.att.com	TCORP-FA-PRODUCT TO PRODUCT	AS7018				404 Not Found	
+32.60.74.42	8443	catorhvdue806.intl.att.com;catorhvdue805.intl.att.com;hvd-intl06.att.com;catorhvd808.intl.att.com;catorhvdue807.intl.att.com	AT&T ITO	AS2685					
+144.160.125.167	8443	mydesktop-dr02u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+135.209.149.227	8443	dss-p9mbw8.att.com;m.att.com	AT&T Services, Inc.	AS797	Apache httpd				
+144.160.125.164	8443	mydesktop-central05u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.160.125.163	8443	mydesktop-central04u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+135.209.149.214	8443	dss-p9mbw11.att.com;m.att.com	AT&T Services, Inc.	AS797	Apache httpd				
+12.43.0.36	8443	acedesktop.att.com	AT&T Enterprises, LLC	AS7018					
+144.160.125.165	8443	mydesktop-central06u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+32.60.74.197	8443	catorhvdue207.intl.att.com;hvd-intl03.att.com;catorhvdue206.intl.att.com;catorhvdue205.intl.att.com	AT&T ITO	AS2685					
+104.16.174.62	8443	prod-bcjr-att-com.cc-ecdn.net	Cloudflare, Inc.	AS13335	CloudFlare			403 Forbidden	
+202.135.170.57	8443	inhydhvdue606.intl.att.com;inhydhvdue607.intl.att.com;inhydhvdue605.intl.att.com;hvd-intl09.att.com	Network of AT&T ITO	AS2687					
+144.161.121.79	8443	mydesktop-east01u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.121.83	8443	mydesktop-east02u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.121.76	8443	mydesktop-east02u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.121.80	8443	mydesktop-east01u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.160.125.166	8443	mydesktop-dr01u.att.com;mydesktop-ws1-test.att.com	AT&T Services, Inc.	AS797					
+144.161.121.91	8443	mydesktop-east05u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.121.85	8443	mydesktop-east01u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.121.92	8443	mydesktop-east05u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.121.87	8443	mydesktop-east05u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.121.88	8443	mydesktop-east02u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.121.84	8443	mydesktop-east01u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.121.89	8443	mydesktop-east02u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.121.90	8443	mydesktop-east05u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.121.81	8443	mydesktop-east02u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.121.86	8443	mydesktop-east05u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+195.75.95.158	8443	defrahvdacc11.intl.att.com;defrahvdacc10.intl.att.com;hvd-intl01.att.com	Network of AT&T ITO	AS2686					
+62.200.148.18	8443	bebrxhvdue606.intl.att.com;bebrxhvdue605.intl.att.com;hvd-intl13.att.com;bebrxhvdue607.intl.att.com	Network of AT&T ITO	AS2686					
+62.200.148.39	8443	bebrxhvdue606.intl.att.com;bebrxhvdue605.intl.att.com;hvd-intl13.att.com;bebrxhvdue607.intl.att.com	Network of AT&T ITO	AS2686					
+62.200.148.40	8443	bebrxhvdue606.intl.att.com;bebrxhvdue605.intl.att.com;hvd-intl13.att.com;bebrxhvdue607.intl.att.com	Network of AT&T ITO	AS2686					
+122.248.166.34	8443	jptokhvdue607.intl.att.com;jptokhvdue605.intl.att.com;hvd-intl11.att.com;jptokhvdue606.intl.att.com	Network of AT&T ITO	AS2687					
+144.161.205.81	8443	mydesktop-central05u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.205.85	8443	mydesktop-central06u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+104.16.175.62	8443	prod-bcjr-att-com.cc-ecdn.net	Cloudflare, Inc.	AS13335	CloudFlare			403 Forbidden	
+144.161.205.79	8443	mydesktop-central04u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+32.59.51.166	8443	hvd-intl02.att.com;mxpblhvdUE605.intl.att.com;mxpblhvdUE607.intl.att.com;mxpblhvdUE606.intl.att.com	AT&T Enterprises, LLC	AS2688					
+104.19.153.10	8443	watch.att.com	Cloudflare, Inc.	AS13335	CloudFlare			403 Forbidden	
+144.161.205.76	8443	mydesktop-central06u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.205.80	8443	mydesktop-central04u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+32.60.74.44	8443	catorhvd608.intl.att.com;catorhvd607.intl.att.com;hvd-intl10.att.com;catorhvd606.intl.att.com;catorhvd605.intl.att.com	AT&T ITO	AS2685					
+144.161.205.70	8443	mydesktop-central04u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.205.74	8443	mydesktop-central05u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.217.251	8443	idc.att.com;zlpy17794.enaf.vci.att.com;zlpy21291.enaf.vci.att.com;zlpy27989.enaf.vci.att.com;zlpy37384.enaf.vci.att.com;zlpy34109.enaf.vci.att.com;zlpy30735.enaf.vci.att.com	AT&T Services, Inc.	AS797					
+144.161.205.90	8443	mydesktop-dr02u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.205.77	8443	mydesktop-central06u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.205.69	8443	mydesktop-central04u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.160.56.229	8443	apporigin-tst-idplgw3.ffdc.sbc.com;apporigin-idp-e2e.ffdc.sbc.com;origin-tst-idp3-ffdc.att.com;zlt21985.enaf.vci.att.com;tst-idp-az.lbdel.web.att.com;zlt24409.vci.att.com;zlt21987.enaf.vci.att.com;zlt21984.enaf.vci.att.com;zlt24406.vci.att.com;zlt21986.enaf.vci.att.com;zlt21988.enaf.vci.att.com;zlt24407.vci.att.com;zlt24408.vci.att.com;origin-idptest-ff2dc.test.att.com;e-tst3.stage.att.com;apporigin-tst-idp3.ffdc.sbc.com;zlt21983.enaf.vci.att.com;idp-api.web.att.com;origin-idpstg-ffdc.att.com	AT&T Services, Inc.	AS797	nginx			404 Not Found	
+144.161.205.84	8443	mydesktop-central06u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.205.75	8443	mydesktop-central06u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.204.135	8443	mydesktop-next01u.att.com;mydesktop-ws1-test.att.com	AT&T Services, Inc.	AS797					
+144.161.205.89	8443	mydesktop-dr02u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.205.73	8443	mydesktop-central05u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+195.123.234.67	8443	kjasuihsadj.att.com	Green Floid LLC	AS204957					
+144.161.120.74	8443	mydesktop-east01u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.120.76	8443	mydesktop-east05u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.205.87	8443	mydesktop-dr01u.att.com;mydesktop-ws1-test.att.com	AT&T Services, Inc.	AS797					
+144.161.205.83	8443	mydesktop-central05u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.205.78	8443	mydesktop-central04u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.106.95	8443	mydesktop-east02u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.205.88	8443	mydesktop-dr01u.att.com;mydesktop-ws1-test.att.com	AT&T Services, Inc.	AS797					
+144.161.120.80	8443	mydesktop-east06u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.106.94	8443	mydesktop-east01u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+195.75.95.130	8443	defrahvdue807.intl.att.com;hvd-intl14.att.com;defrahvdue805.intl.att.com;defrahvdue806.intl.att.com	Network of AT&T ITO	AS2686					
+144.161.120.77	8443	mydesktop-east06u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+32.59.51.165	8443	hvd-intl02.att.com;mxpblhvdUE605.intl.att.com;mxpblhvdUE607.intl.att.com;mxpblhvdUE606.intl.att.com	AT&T Enterprises, LLC	AS2688					
+144.161.120.81	8443	mydesktop-east06u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+32.60.74.35	8443	catorhvd608.intl.att.com;catorhvd607.intl.att.com;hvd-intl10.att.com;catorhvd606.intl.att.com;catorhvd605.intl.att.com	AT&T ITO	AS2685					
+32.60.74.39	8443	catorhvdue806.intl.att.com;catorhvdue805.intl.att.com;hvd-intl06.att.com;catorhvd808.intl.att.com;catorhvdue807.intl.att.com	AT&T ITO	AS2685					
+32.59.51.185	8443	mxpblhvdue806.intl.att.com;mxpblhvdue805.intl.att.com;hvd-intl04.att.com;mxpblhvdue807.intl.att.com	AT&T Enterprises, LLC	AS2688					
+195.75.95.157	8443	defrahvdacc11.intl.att.com;defrahvdacc10.intl.att.com;hvd-intl01.att.com	Network of AT&T ITO	AS2686					
+144.161.121.78	8443	mydesktop-east01u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+20.65.21.151	8443	iotgw.it.att.com	Microsoft Corporation	AS8075	Microsoft Azure Application Gateway	v2		404 Not Found	
+32.60.74.34	8443	catorhvd608.intl.att.com;catorhvd607.intl.att.com;hvd-intl10.att.com;catorhvd606.intl.att.com;catorhvd605.intl.att.com	AT&T ITO	AS2685					
+144.161.120.78	8443	mydesktop-east06u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.120.79	8443	mydesktop-east06u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+170.35.239.169	8443	dss-p2mbw8.att.com;m.att.com	AT&T Services, Inc.	AS797	Apache httpd				
+122.248.166.36	8443	jptokhvdue607.intl.att.com;jptokhvdue605.intl.att.com;hvd-intl11.att.com;jptokhvdue606.intl.att.com	Network of AT&T ITO	AS2687					
+144.161.120.75	8443	mydesktop-east02u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.120.82	8443	mydesktop-east06u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.205.71	8443	mydesktop-central04u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+20.85.32.22	8443	eastus2-32088-prod-app-matomo-vm-05.az.3pc.att.com;eastus2-32088-uat-app-vm-01.az.3pc.att.com;eastus2-32088-dev-app-vm-01.az.3pc.att.com;ACE2D32088AP001.az.3pc.att.com;ACE2P32088AP001.az.3pc.att.com;eastus2-32088-test-app-vm-01.az.3pc.att.com;eastus2-32088-uat-app-vm-04.az.3pc.att.com;dna-uat.az.cloud.att.com;eastus2-32088-prod-lb-01.az.3pc.att.com;eastus2-32088-dev-app-matomo-vm-01.az.3pc.att.com;eastus2-32088-prod-app-vm-02.az.3pc.att.com;dna.az.cloud.att.com;eastus2-32088-prod-app-vm-04.az.3pc.att.com;dna.dev.att.com;dna-test.az.cloud.att.com;dna-dev.az.cloud.att.com;eastus2-32088-uat-lb-01.az.3pc.att.com;eastus2-32088-uat-app-vm-03.az.3pc.att.com;dna.stage.att.com;eastus2-32088-prod-lb-02.az.3pc.att.com;eastus2-32088-uat-lb-02.az.3pc.att.com;eastus2-32088-test-app-vm-02.az.3pc.att.com;ACE2T32088AP002.az.3pc.att.com;eastus2-32088-uat-app-vm-02.az.3pc.att.com;dna.test.att.com;eastus2-32088-dev-app-vm-02.az.3pc.att.com;ACE2D32088AP002.az.3pc.att.com;eastus2-32088-prod-app-vm-01.az.3pc.att.com;dna.web.att.com;eastus2-32088-prod-app-vm-03.az.3pc.att.com;ACE2T32088AP001.az.3pc.att.com	Microsoft Corporation	AS8075	Microsoft Azure Application Gateway	v2		502 Bad Gateway	
+32.60.74.51	8443	catorhvdue806.intl.att.com;catorhvdue805.intl.att.com;hvd-intl06.att.com;catorhvd808.intl.att.com;catorhvdue807.intl.att.com	AT&T ITO	AS2685					
+32.59.51.186	8443	mxpblhvdue806.intl.att.com;mxpblhvdue805.intl.att.com;hvd-intl04.att.com;mxpblhvdue807.intl.att.com	AT&T Enterprises, LLC	AS2688					
+32.60.74.45	8443	catorhvd608.intl.att.com;catorhvd607.intl.att.com;hvd-intl10.att.com;catorhvd606.intl.att.com;catorhvd605.intl.att.com	AT&T ITO	AS2685					
+32.60.74.38	8443	catorhvdue806.intl.att.com;catorhvdue805.intl.att.com;hvd-intl06.att.com;catorhvd808.intl.att.com;catorhvdue807.intl.att.com	AT&T ITO	AS2685					
+62.200.148.38	8443	bebrxhvdue606.intl.att.com;bebrxhvdue605.intl.att.com;hvd-intl13.att.com;bebrxhvdue607.intl.att.com	Network of AT&T ITO	AS2686					
+104.19.248.63	8443	more.att.com	Cloudflare, Inc.	AS13335	CloudFlare			403 Forbidden	
+202.135.170.34	8443	inhydhvdue606.intl.att.com;inhydhvdue607.intl.att.com;inhydhvdue605.intl.att.com;hvd-intl09.att.com	Network of AT&T ITO	AS2687					
+122.248.166.35	8443	jptokhvdue607.intl.att.com;jptokhvdue605.intl.att.com;hvd-intl11.att.com;jptokhvdue606.intl.att.com	Network of AT&T ITO	AS2687					
+195.75.95.131	8443	defrahvdue807.intl.att.com;hvd-intl14.att.com;defrahvdue805.intl.att.com;defrahvdue806.intl.att.com	Network of AT&T ITO	AS2686					
+32.59.51.167	8443	hvd-intl02.att.com;mxpblhvdUE605.intl.att.com;mxpblhvdUE607.intl.att.com;mxpblhvdUE606.intl.att.com	AT&T Enterprises, LLC	AS2688					
+32.60.74.43	8443	catorhvdue806.intl.att.com;catorhvdue805.intl.att.com;hvd-intl06.att.com;catorhvd808.intl.att.com;catorhvdue807.intl.att.com	AT&T ITO	AS2685					
+32.59.51.187	8443	mxpblhvdue806.intl.att.com;mxpblhvdue805.intl.att.com;hvd-intl04.att.com;mxpblhvdue807.intl.att.com	AT&T Enterprises, LLC	AS2688					
+144.160.57.168	8443	apporigin-tst-idplgw3.ffdc.sbc.com;apporigin-idp-e2e.ffdc.sbc.com;origin-tst-idp3-ffdc.att.com;zlt21985.enaf.vci.att.com;tst-idp-az.lbdel.web.att.com;zlt24409.vci.att.com;zlt21987.enaf.vci.att.com;zlt21984.enaf.vci.att.com;zlt24406.vci.att.com;zlt21986.enaf.vci.att.com;zlt21988.enaf.vci.att.com;zlt24407.vci.att.com;zlt24408.vci.att.com;origin-idptest-ff2dc.test.att.com;e-tst3.stage.att.com;apporigin-tst-idp3.ffdc.sbc.com;zlt21983.enaf.vci.att.com;idp-api.web.att.com;origin-idpstg-ffdc.att.com	AT&T Services, Inc.	AS797	nginx			404 Not Found	
+144.161.205.82	8443	mydesktop-central05u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.205.86	8443	mydesktop-central06u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+144.161.205.72	8443	mydesktop-central05u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+104.16.224.147	8443	prod-bcjr-att-com.cc-ecdn.net	Cloudflare, Inc.	AS13335	CloudFlare			403 Forbidden	
+195.75.95.133	8443	defrahvdue607.intl.att.com;defrahvdue605.intl.att.com;defrahvdue606.intl.att.com;hvd-intl08.att.com	Network of AT&T ITO	AS2686					
+195.75.95.132	8443	defrahvdue807.intl.att.com;hvd-intl14.att.com;defrahvdue805.intl.att.com;defrahvdue806.intl.att.com	Network of AT&T ITO	AS2686					
+144.161.137.171	8443	mydesktop-ws1.att.com;mydesktop-east04u.att.com	AT&T Services, Inc.	AS797					
+144.161.137.170	8443	mydesktop-east03u.att.com;mydesktop-ws1.att.com	AT&T Services, Inc.	AS797					
+104.16.176.62	8443	dev-bcjr-att-com.cc-ecdn.net	Cloudflare, Inc.	AS13335	CloudFlare			403 Forbidden	
+144.161.217.249	8443	zlty33918.enaf.vci.att.com;idc.test.att.com;zlt16629.enaf.vci.att.com	AT&T Services, Inc.	AS797					
+144.161.149.180	8443	mydesktop-ws1.att.com;mydesktop-east04u.att.com	AT&T Services, Inc.	AS797					
+144.160.119.102	8443	websplashpage-aldc02.att.com;zlpy31629.enaf.vci.att.com;zlpy30972.enaf.vci.att.com;websplashpage-dadc01.att.com;websplashpage-dadc02.att.com;websplashpage-aldc01.att.com;websplashpage.att.com;zlpy30756.enaf.vci.att.com;origin-wsp-dadc02.att.com;origin-wsp-dadc01.att.com;origin-wsp-aldc01.att.com;zlpy30266.enaf.vci.att.com;origin-wsp-aldc02.att.com	AT&T Services, Inc.	AS797					
+194.135.36.42	8443	www.googletagmanager.com;service.urchin.com;region1.analytics.google.com;region1.google-analytics.com;region1.analytics.app-measurement.com;region1.app-analytics-services.com;region1.att.app-measurement.com;googletagmanager.com;region1.app-analytics-services-att.com;analytics.app-measurement.com;urchin.com;googleoptimize.com;att.app-measurement.com;app-measurement.com;fps.goog;www.googleoptimize.com;app-analytics-services-att.com;app-analytics-services.com;ssl.google-analytics.com;region1.app-measurement.com;www.google-analytics.com;google-analytics.com	TimeWeb Ltd.	AS9123				301 Moved	
+2.27.35.125	8443	www.googletagmanager.com;service.urchin.com;region1.analytics.google.com;region1.google-analytics.com;region1.analytics.app-measurement.com;region1.app-analytics-services.com;region1.att.app-measurement.com;googletagmanager.com;region1.app-analytics-services-att.com;analytics.app-measurement.com;urchin.com;googleoptimize.com;att.app-measurement.com;app-measurement.com;fps.goog;www.googleoptimize.com;app-analytics-services-att.com;app-analytics-services.com;ssl.google-analytics.com;region1.app-measurement.com;www.google-analytics.com;google-analytics.com	Orange WBC Broadband	AS12576				301 Moved	
+151.247.25.222	8443	www.googletagmanager.com;service.urchin.com;region1.analytics.google.com;region1.google-analytics.com;region1.analytics.app-measurement.com;region1.app-analytics-services.com;region1.att.app-measurement.com;googletagmanager.com;region1.app-analytics-services-att.com;analytics.app-measurement.com;urchin.com;googleoptimize.com;att.app-measurement.com;app-measurement.com;fps.goog;www.googleoptimize.com;app-analytics-services-att.com;app-analytics-services.com;ssl.google-analytics.com;region1.app-measurement.com;www.google-analytics.com;google-analytics.com	Aria Shatel PJSC					301 Moved	
+202.135.170.35	8443	inhydhvdue606.intl.att.com;inhydhvdue607.intl.att.com;inhydhvdue605.intl.att.com;hvd-intl09.att.com	Network of AT&T ITO	AS2687					
+195.75.95.134	8443	defrahvdue607.intl.att.com;defrahvdue605.intl.att.com;defrahvdue606.intl.att.com;hvd-intl08.att.com	Network of AT&T ITO	AS2686					
+104.16.177.62	8443	dev-bcjr-att-com.cc-ecdn.net	Cloudflare, Inc.	AS13335	CloudFlare			403 Forbidden	
+103.146.119.76	8443	www.googletagmanager.com;service.urchin.com;region1.analytics.google.com;region1.google-analytics.com;region1.analytics.app-measurement.com;region1.app-analytics-services.com;region1.att.app-measurement.com;googletagmanager.com;region1.app-analytics-services-att.com;analytics.app-measurement.com;urchin.com;googleoptimize.com;att.app-measurement.com;app-measurement.com;fps.goog;www.googleoptimize.com;app-analytics-services-att.com;app-analytics-services.com;ssl.google-analytics.com;region1.app-measurement.com;www.google-analytics.com;google-analytics.com	NETAXIS GROUP LTD	AS26383				301 Moved	
+132.243.234.66	8443	www.googletagmanager.com;service.urchin.com;region1.analytics.google.com;region1.google-analytics.com;region1.analytics.app-measurement.com;region1.app-analytics-services.com;region1.att.app-measurement.com;googletagmanager.com;region1.app-analytics-services-att.com;analytics.app-measurement.com;urchin.com;googleoptimize.com;att.app-measurement.com;app-measurement.com;fps.goog;www.googleoptimize.com;app-analytics-services-att.com;app-analytics-services.com;ssl.google-analytics.com;region1.app-measurement.com;www.google-analytics.com;google-analytics.com	NCR Corporation	AS14962				301 Moved	
+144.31.72.51	8443	www.googletagmanager.com;service.urchin.com;vm464538.hosted-by.u1host.com;region1.analytics.google.com;region1.google-analytics.com;region1.analytics.app-measurement.com;region1.app-analytics-services.com;region1.att.app-measurement.com;googletagmanager.com;region1.app-analytics-services-att.com;analytics.app-measurement.com;urchin.com;googleoptimize.com;att.app-measurement.com;app-measurement.com;fps.goog;www.googleoptimize.com;app-analytics-services-att.com;app-analytics-services.com;ssl.google-analytics.com;region1.app-measurement.com;www.google-analytics.com;google-analytics.com	Ace Data Centers II, L.L.C.	AS401152				301 Moved	
+144.160.119.101	8443	websplashpage-aldc02.att.com;zlpy31629.enaf.vci.att.com;zlpy30972.enaf.vci.att.com;websplashpage-dadc01.att.com;websplashpage-dadc02.att.com;websplashpage-aldc01.att.com;websplashpage.att.com;zlpy30756.enaf.vci.att.com;origin-wsp-dadc02.att.com;origin-wsp-dadc01.att.com;origin-wsp-aldc01.att.com;zlpy30266.enaf.vci.att.com;origin-wsp-aldc02.att.com	AT&T Services, Inc.	AS797					
+195.75.95.135	8443	defrahvdue607.intl.att.com;defrahvdue605.intl.att.com;defrahvdue606.intl.att.com;hvd-intl08.att.com	Network of AT&T ITO	AS2686					
+38.130.240.133	8443	www.googletagmanager.com;service.urchin.com;region1.analytics.google.com;region1.google-analytics.com;region1.analytics.app-measurement.com;region1.app-analytics-services.com;region1.att.app-measurement.com;googletagmanager.com;region1.app-analytics-services-att.com;analytics.app-measurement.com;urchin.com;googleoptimize.com;att.app-measurement.com;app-measurement.com;fps.goog;www.googleoptimize.com;app-analytics-services-att.com;app-analytics-services.com;ssl.google-analytics.com;region1.app-measurement.com;www.google-analytics.com;google-analytics.com	Cogent Communications	AS174				301 Moved	
+

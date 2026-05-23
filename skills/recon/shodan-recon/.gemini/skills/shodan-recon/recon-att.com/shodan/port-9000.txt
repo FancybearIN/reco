@@ -1,0 +1,4 @@
+20.22.141.126	9000	kddiiotgw.att.com	Microsoft Corporation	AS8075	Microsoft Azure Application Gateway	v2		404 Not Found	
+20.85.57.166	9000	fordiotgw.att.com	Microsoft Corporation	AS8075	Microsoft Azure Application Gateway	v2		404 Not Found	
+52.177.32.54	9000	toyotaiotgw.att.com	Microsoft Corporation	AS8075	Microsoft Azure Application Gateway	v2		404 Not Found	
+

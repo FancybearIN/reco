@@ -1,0 +1,52 @@
+#!/usr/bin/env python3
+import argparse
+import sys
+import os
+import yaml
+import json
+from pathlib import Path
+
+# Add src to pythonpath
+sys.path.insert(0, str(Path(__file__).resolve().parent / "src"))
+
+from core.pipeline import run_pipeline, run_recon_only, validate_finding, report_finding
+
+def main():
+    parser = argparse.ArgumentParser(description="reco - Autonomous Bug Bounty Agent")
+    subparsers = parser.add_subparsers(dest="command", help="Available commands")
+
+    # hunt command
+    hunt_parser = subparsers.add_parser("hunt", help="Run full autonomous hunt pipeline")
+
+    hunt_parser.add_argument("--target", required=True, help="Target name/domain")
+    hunt_parser.add_argument("--scope", help="Path to scope.txt file", default=None)
+    hunt_parser.add_argument("--profile", help="Hunt profile (full, low_hanging, etc)", default="full")
+
+    # recon command
+    recon_parser = subparsers.add_parser("recon", help="Run only the mandatory recon chain")
+    recon_parser.add_argument("--target", required=True, help="Target name/domain")
+    recon_parser.add_argument("--scope", help="Path to scope.txt file", default=None)
+
+    # validate command
+    validate_parser = subparsers.add_parser("validate", help="Validate a candidate finding")
+    validate_parser.add_argument("--finding", required=True, help="Path to finding JSON")
+
+    # report command
+    report_parser = subparsers.add_parser("report", help="Generate report for a validated finding")
+    report_parser.add_argument("--finding", required=True, help="Path to finding JSON")
+
+    args = parser.parse_args()
+
+    if args.command == "hunt":
+        run_pipeline(args.target, args.scope, args.profile)
+    elif args.command == "recon":
+        run_recon_only(args.target, args.scope)
+    elif args.command == "validate":
+        validate_finding(args.finding)
+    elif args.command == "report":
+        report_finding(args.finding)
+    else:
+        parser.print_help()
+
+if __name__ == "__main__":
+    main()
