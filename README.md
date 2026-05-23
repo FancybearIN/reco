@@ -1,3 +1,56 @@
+# Reco — Recon OS for Bug Bounty Automation
+
+![Architecture sketch](docs/images/reco-sketch.png)
+
+Lightweight orchestration for automated recon, correlation, and reporting
+during bug bounty hunts. Reco wraps common recon tools, coordinates
+distributed tasks with Celery, stores relationships in Neo4j, and provides
+memory/context via Mem0 for smarter prioritization and triage.
+
+Key capabilities:
+- Automated passive and active recon (subdomain discovery, crawling, JS
+  analysis)
+- Correlation across domains, IPs, ASNs, and favicons
+- Prioritization heuristics and vulnerability suggestion pipelines
+- Exportable findings and HackerOne report scaffolding
+
+Tech stack (core): Python, FastAPI, Celery + Redis, Neo4j, Playwright
+
+Quick install (recommended in a Python 3.11+ venv):
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+# Optional: run installer scripts in `install/` or use Docker compose
+```
+
+Healthcheck (quick verification of local tools and env):
+
+```bash
+python -m src.cli healthcheck
+# output saved to runs/healthcheck.json and runs/healthcheck.md
+```
+
+Important files and docs:
+- `docs/architecture.md` — system architecture and component overview
+- `config/reco.yaml` — runtime configuration
+- `src/` — core services, CLI, and orchestration logic
+- `install/` — setup scripts
+
+Usage notes:
+- Many recon tools (subfinder, httpx, nuclei, etc.) are invoked by the
+  orchestration layer; install those separately or run with Docker
+- Provide API keys and environment variables in `config/` or your shell
+- Run the API and worker with your preferred method (`uvicorn`, Docker,
+  or `docker-compose`)
+
+Contributing:
+- Read `docs/architecture.md` and follow the established module patterns
+- Add tests under `tests/` and run them before submitting PRs
+
+---
+
 # BUG BOUNTY — QUICK START REFERENCE
 # ============================================================
 # Keep this open during every hunt session
@@ -29,7 +82,7 @@ nano ~/bugbounty/$T/config/creds.env
 # 5. Verify API keys are set:
 source ~/bugbounty/config/api-keys.env && echo "Keys: OK"
 
-## ── START GEMINI SESSION ────────────────────────────────────
+## ── START GEMINI SESSION ───────────────────────────────────
 
 cd ~/bugbounty/$T
 gemini
